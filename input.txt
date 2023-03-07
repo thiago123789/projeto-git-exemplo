@@ -1,0 +1,1 @@
+Exemplo arquivo input git para testar multiplos arquivos em uma mesma versão
